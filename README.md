@@ -1,0 +1,3 @@
+💪 Fitness Brand Landing Page A modern and responsive Fitness Brand Promotional Landing Page built using HTML, CSS, and JavaScript. This project is designed to attract users with engaging sections like membership plans, trainer details, transformation stories, and a strong call-to-action.
+
+🚀 Features 🏋️ Hero Section with Call-to-Action (Join Now) 💳 Membership Plans (Basic, Standard, Premium) 👨‍🏫 Trainer Profiles 🔥 Transformation Stories / Testimonials 📞 Contact Information Section 🎨 Clean and Attractive UI 📱 Fully Responsive Design 🛠️ Technologies Used HTML5 – Structure of the webpage CSS3 – Styling and layout JavaScript (Vanilla JS) – Interactivity 📁 Project Structure
